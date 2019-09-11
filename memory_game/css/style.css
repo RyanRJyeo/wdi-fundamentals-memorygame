@@ -64,6 +64,29 @@ img{
 	margin: 40px 8px 0;
 }
 
+.button1{
+	margin-top: 20px;
+	padding: 10px;
+	font-family: "Raleway";
+	font-size: 20px;
+	border-radius: 5px;
+	color: white;
+	background: #00a6b3;
+	border: 2px solid #0d2c40;
+}
+
+button:hover{
+	transition: 0.5s;
+	margin-top: 20px;
+	padding: 10px;
+	font-family: "Raleway";
+	font-size: 20px;
+	border-radius: 5px;
+	color: #0d2c40;
+	background: white;
+	border: 2px solid #0d2c40;
+}
+
 footer{
 	text-transform: uppercase;
 	padding: 0 20px;
